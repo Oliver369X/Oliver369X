@@ -11,7 +11,7 @@
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align ="izquierda">
-<a href="https://linkedin.com/in/diego oliver" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diego oliver" height="30" width="40" /></ un>
+<a href="https://linkedin.com/in/oliv€r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diego oliver" height="30" width="40" /></ un>
 </p>
 
 <h3 align="left">Idiomas y herramientas:</h3>
